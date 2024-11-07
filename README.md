@@ -26,3 +26,6 @@ Scatter Plot: Displayed the availability of different categories based on the Si
 
 # Conclusion
 The data analysis reveals that the business has a significant customer base in Maharashtra state, mainly serves retailers, fulfills orders through Amazon, experiences high demand for T-shirts, and sees M-Size as the preferred choice among buyers.
+
+# Additional
+I have developed an interactive Power BI dashboard based on this project
