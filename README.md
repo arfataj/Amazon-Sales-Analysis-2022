@@ -5,7 +5,7 @@ This project analyzes Amazon sales data to gain insights into product performanc
 ![image](https://github.com/user-attachments/assets/1fd90e91-d396-4bff-b807-35b1f68643c3)
 
 
-# Key Analysis Steps:
+# Key Analysis Steps include:
  
 # Data Preprocessing
 Removed null values and converted data types to ensure consistency.
