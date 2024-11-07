@@ -1,6 +1,7 @@
 # Amazon-Sales-Analysis-2022
 This project analyzes Amazon sales data to gain insights into product performance, customer demographics, and regional sales trends. The analysis involves cleaning the dataset, performing exploratory data analysis (EDA), and visualizing key patterns, such as sales distribution and customer preferences.
 
+![Uploading image.jpg…]()
 
 
 Key Analysis Steps
@@ -12,6 +13,7 @@ Exploratory Data Analysis (EDA):
 Analyzed product sales by size, grouped by categories using groupby, and assessed courier status for order fulfillment.
 
 Visualizations:
+
 Histogram: Showed T-shirt sales distribution.
 Pie Chart: Displayed the ratio of B2B to B2C customers.
 Count Plot: Visualized sales by city and state, highlighting Maharashtra's dominance.
