@@ -5,7 +5,7 @@ This project analyzes Amazon sales data to gain insights into product performanc
 ![image](https://github.com/user-attachments/assets/1fd90e91-d396-4bff-b807-35b1f68643c3)
 
 
-# Key Analysis Steps include:
+Key Analysis Steps include:
  
 # Data Preprocessing
 Removed null values and converted data types to ensure consistency.
@@ -17,8 +17,11 @@ Analyzed product sales by size, grouped by categories using groupby, and assesse
 # Visualizations
 
 Histogram: Showed T-shirt sales distribution.
+
 Pie Chart: Displayed the ratio of B2B to B2C customers.
+
 Count Plot: Visualized sales by city and state, highlighting Maharashtra's dominance.
+
 Scatter Plot: Displayed the availability of different categories based on the Size column, helping to understand how product sizes vary across different categories.
 
 # Conclusion
